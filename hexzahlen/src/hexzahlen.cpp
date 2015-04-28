@@ -4,6 +4,7 @@
 // Version     :
 // Copyright   : Hexadezimal
 // Description : Hello World in C++, Ansi-style
+//editiert
 //============================================================================
 
 #include <iostream>
