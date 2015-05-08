@@ -1,18 +1,18 @@
 /*
- * NewDerivedClass.cpp
+ * NewDerived.cpp
  *
  *  Created on: May 8, 2015
  *      Author: schueler
  */
 
-#include "NewDerivedClass.h"
+#include "NewDerived.h"
 
-NewDerivedClass::NewDerivedClass() {
+NewDerived::NewDerived() {
 	// TODO Auto-generated constructor stub
 
 }
 
-NewDerivedClass::~NewDerivedClass() {
+NewDerived::~NewDerived() {
 	// TODO Auto-generated destructor stub
 }
 
