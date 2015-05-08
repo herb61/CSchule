@@ -57,6 +57,10 @@ int main()
     artikel art[5];
     cout << "Wie viele Artikel möchten Sie eingeben?"<<endl;
     cin >> num;
+    if (num > 4){
+    	cout << "max. 5" << endl;
+    	num = checkInt();
+    }
     for(int i = 0; i < num; i++){
 
     // Eingabe:
