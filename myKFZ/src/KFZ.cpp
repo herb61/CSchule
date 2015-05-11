@@ -9,7 +9,9 @@
 #include <string>
 
 using namespace std;
-
+/** my counter
+ *
+ */
 int KFZ::numOfObjects = 0;
 /** wheels and seat set to zero
  *
