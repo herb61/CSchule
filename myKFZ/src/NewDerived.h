@@ -14,7 +14,7 @@ class NewDerived: public KFZ {
 private:
 	int tank;
 	string motor;
-
+	double test;
 public:
 	NewDerived();
 	virtual ~NewDerived();
