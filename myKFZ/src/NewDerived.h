@@ -15,6 +15,7 @@ private:
 	int tank;
 	string motor;
 	double test;
+	char* bash;
 public:
 	NewDerived();
 	virtual ~NewDerived();
